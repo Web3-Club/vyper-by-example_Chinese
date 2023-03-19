@@ -48,7 +48,7 @@
 ## 📖 LICENCE
 ### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br><br><br><br><br>  
 Built by China Web3-Club [contributors](https://github.com/Web3-Club/vyper-by-example_Chinese/graphs/contributors) with heart.  
-Copyright © [vyper-by-example](https://vyper-by-example.org/)<br>  
+Copyright © [vyper-by-example](https://vyper-by-example.org/)&emsp;
 Chinese Translation copyright © 2023 &emsp; China Web3-Club｜中国Web3社区  
 ALL RIGHT RESERVED  
 
