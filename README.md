@@ -1,2 +1,43 @@
 # vyper-by-example_Chinese
 vyper-by-example文档 简体中文翻译
+
+## ✍🏻 翻译需要
+如果您想参与本项目，特别是如果您有能力进行英语-简体中文 翻译，欢迎[加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md)，为项目发展及其网页翻译作出贡献！
+
+     
+## ❤️ 项目贡献者
+**永远感谢他们为本项目所作出的贡献！**
+
+[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/vyper-by-example_Chinese)](https://github.com/Web3-Club/vyper-by-example_Chinese/graphs/contributors)
+
+## 💐 赞助我们 
+🪙 ETH：  ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
+
+您的姓名或昵称将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
+**感谢您对我们社区未来健康发展所作出的支持**
+
+
+## 👏🏻 特别感谢 
+特别感谢我们的[Premium Sponser](https://github.com/Web3-Club/Sponsor/blob/main/Premium%20sponsors.md)
+
+<a href="https://abetterweb3.notion.site"><img alt="abetterweb3" height="125" src="https://user-images.githubusercontent.com/76860915/220133607-dddc3468-0cda-4065-bce3-3b275dfe6ad1.png" width="450"/>
+
+  
+## 😃 关于我们 
+**这里是中国Web3协会，成立于2023年2月7日**<br>  
+（也许是，也希望未来是）中国最早的Web3社群<br>  
+我们建立的初衷是因为创始人烟波,苦于中文互联网中的 Web3 相关知识分享内容相对较少，而为了改变这一现状，希望未来能整合和拓宽这类方向相关的 中文知识内容，从而建立了该组织。<br>  
+
+### **社群宗旨**   
+#### **永远关注知识和技术的进步，而不是价格**<br>   
+在此，我们希望为所有的对Web3未来感兴趣和欲为其“添砖加瓦”的朋友们一起,创造出更美好的Web3未来前景！<br>  
+（详见[关于我们](https://github.com/Web3-Club/Intro.#%E7%AE%80%E4%BB%8B) ）
+
+
+## 📖 LICENCE
+### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br><br><br><br><br>  
+Built by China Web3-Club [contributors](https://github.com/Web3-Club/Web3wiki-Website#%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85) with heart.  
+Blockchain Developer | Develop Roadmap &emsp;Copyright © roadmap.sh  
+Chinese Translation copyright © 2023 &emsp; China Web3-Club｜中国Web3社区  
+ALL RIGHT RESERVED  
+
