@@ -4,7 +4,7 @@
 
 
 ## 简介
-[vyper-by-example](https://vyper-by-example.org/)文档的 中文翻译 项目
+[vyper-by-example](https://vyper-by-example.org/)文档的 中文翻译 项目<br> 
 项目还在施工中
 
 ## ✍🏻 翻译需要
