@@ -5,7 +5,12 @@
 
 ## 简介
 [vyper-by-example](https://vyper-by-example.org/)文档的 中文翻译 项目<br> 
-项目还在施工中
+该项目现在仍在施工中 🏗️  欢迎各位一起积极参与共同建设起 中文互联网第一个Web3百科站点
+
+
+## 🔖 施工计划
+详见 **[issues#1](https://github.com/Web3-Club/vyper-by-example_Chinese/issues/1)**
+
 
 ## ✍🏻 翻译需要
 如果您想参与本项目，特别是如果您有能力进行英语-简体中文 翻译，欢迎[加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md)，为项目发展及其网页翻译作出贡献！
