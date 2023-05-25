@@ -5,10 +5,7 @@
 
 ## 简介
 [vyper-by-example](https://vyper-by-example.org/)文档的 中文翻译 项目<br> 
-该项目已初步翻译完毕 🏗️ 
 
-## 🔖 施工计划
-详见 **[issues#1](https://github.com/Web3-Club/vyper-by-example_Chinese/issues/1)**
 
 ## 知乎版
 无需逐个点开 整套实例一览无余
