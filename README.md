@@ -35,6 +35,7 @@ Vyper还支持原生交易类型和ERC20标准符合的代币，以及一些其�
 
 ## 💐 赞助我们 
 ### 通过Donate3
+
 <a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee"><img src="https://github.com/Web3-Club/solidity-by-example_Chinese/assets/76860915/22d0fc03-ff8e-405e-942e-b6d1675b2d60" alt="Donate3"></a>
 
 
